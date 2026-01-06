@@ -1,5 +1,5 @@
 # valence-with-tuned-llama
-Some simple experients with a fine-tuned model on Dutch sentences. 
+Some simple experients with a model fine-tuned from Llama 3.1 8B on Dutch sentences. 
 
 Sorry, model is not available for public review
 
