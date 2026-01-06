@@ -1,0 +1,39 @@
+[
+  {
+    "sentiment": 7,
+    "heading": "Very positive",
+    "text": "Global cooperation is gaining momentum, with scientific breakthroughs, expanding access to education, and renewed diplomatic efforts steadily improving quality of life across regions."
+  },
+  {
+    "sentiment": 6,
+    "heading": "Mostly positive",
+    "text": "While challenges persist, innovation in energy, medicine, and connectivity continues to lift millions, and international collaboration is showing real, if uneven, progress."
+  },
+  {
+    "sentiment": 5,
+    "heading": "Mixed",
+    "text": "The world stands at a crossroads, balancing remarkable technological and social advances against persistent inequality, political friction, and environmental strain."
+  },
+  {
+    "sentiment": 4,
+    "heading": "Somewhat negative",
+    "text": "Economic uncertainty, regional conflicts, and climate pressures are testing institutions and public trust, slowing progress and widening divides."
+  },
+  {
+    "sentiment": 3,
+    "heading": "Negative",
+    "text": "Rising polarization, fragile supply chains, and uneven recovery are eroding stability, leaving many communities vulnerable to shocks."
+  },
+  {
+    "sentiment": 2,
+    "heading": "Very negative",
+    "text": "Escalating conflicts, democratic backsliding, and accelerating climate impacts are overwhelming systems meant to protect people and planet."
+  },
+  {
+    "sentiment": 1,
+    "heading": "Extremely negative",
+    "text": "A convergence of war, ecological collapse, economic breakdown, and institutional failure is pushing the global order toward a dangerous unraveling."
+  }
+]
+
+

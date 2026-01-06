@@ -1,0 +1,39 @@
+[
+  {
+    "sentiment": 7,
+    "heading": "Zeer positief",
+    "text": "Wereldwijde samenwerking wint aan momentum, waarbij wetenschappelijke doorbraken, een toenemende toegang tot onderwijs en hernieuwde diplomatieke inspanningen de kwaliteit van leven in verschillende regio’s gestaag verbeteren."
+  },
+  {
+    "sentiment": 6,
+    "heading": "Overwegend positief",
+    "text": "Hoewel er uitdagingen blijven bestaan, blijven innovaties op het gebied van energie, geneeskunde en connectiviteit miljoenen mensen vooruithelpen, en laat internationale samenwerking echte, zij het ongelijkmatige, vooruitgang zien."
+  },
+  {
+    "sentiment": 5,
+    "heading": "Gemengd",
+    "text": "De wereld staat op een kruispunt en balanceert opmerkelijke technologische en sociale vooruitgang tegen aanhoudende ongelijkheid, politieke spanningen en milieudruk."
+  },
+  {
+    "sentiment": 4,
+    "heading": "Enigszins negatief",
+    "text": "Economische onzekerheid, regionale conflicten en klimaatdruk zetten instituties en het publieke vertrouwen onder druk, vertragen de vooruitgang en vergroten de tegenstellingen."
+  },
+  {
+    "sentiment": 3,
+    "heading": "Negatief",
+    "text": "Toenemende polarisatie, kwetsbare toeleveringsketens en een ongelijkmatig herstel ondermijnen de stabiliteit en laten veel gemeenschappen kwetsbaar achter voor schokken."
+  },
+  {
+    "sentiment": 2,
+    "heading": "Zeer negatief",
+    "text": "Escalerende conflicten, democratische achteruitgang en versnellende klimaateffecten overweldigen de systemen die bedoeld zijn om mensen en de planeet te beschermen."
+  },
+  {
+    "sentiment": 1,
+    "heading": "Extreem negatief",
+    "text": "Een samenloop van oorlog, ecologische instorting, economische ontwrichting en institutioneel falen duwt de mondiale orde richting een gevaarlijke ontbinding."
+  }
+]
+
+
